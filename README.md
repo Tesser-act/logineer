@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janav</h1>
-<h3 align="center">I like tapping keyboard, That's all.</h3>
+<h3 align="center">A Simple Developer !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logineer&label=Profile%20views&color=0e75b6&style=flat" alt="logineer" /> </p>
 
