@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/linuxnium" target="blank"><img src="https://img.shields.io/twitter/follow/linuxnium?logo=twitter&style=for-the-badge" alt="linuxnium" /></a> </p>
 
-- 🔭 I’m currently working on **C++ projects**
+- 🔭 I’m currently working on **C++ and Py projects**
 
-- 🌱 I’m currently learning **C/C++/Tkinter/**
+- 🌱 I’m currently learning **C/C++/Tkinter**
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
